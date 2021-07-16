@@ -15,6 +15,7 @@ Bunu diyen aptal sürüsüne de şöyle cevap vereyim URL her halukarda gidiyor 
  * **ESKI** cevabı ile güncellenen özellikleri eski haline getirir.
  * **CEZA** cevabı ile belirtilen fonksiyon içinde yaptığı işleme göre yetki çekme yasaklama cezalıya atma işlemi tammalanır.
  * **KUR** cevabı ile silinen tüm özellikleri tekrar hatasız şekilde kurma işlemini tamamlar.
+ * **DAGIT** cevabı ile kurulum sonrası dağıtma ve oda izinlerini tamamlamak için kullanılır.
  * **KORUMA** cevabı ile tüm rolleri tüm odaları kitler kimseye hiç birşey göstermez ve taç sahibi dışında kullanım yapılamaz.
  * **SG** ile yöneticiyi kapatıp kurma işlemini tekrar eski haline getirme işlemini tamamlar.
 
