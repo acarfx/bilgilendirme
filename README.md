@@ -10,7 +10,7 @@ Bunu diyen aptal sürüsüne de şöyle cevap vereyim URL her halukarda gidiyor 
 # SAÇMA DİYEN APTAL SÜRÜLERİ
 Önce lamerlik yapmayı bırakta başkalarının marifetleriyle övünmeyi geçte iki üç temel öğren de gel copy paste le iş yapamazsın gerçi her NodeJS Motorunu kurmasını bilen botçu olduğu için hiç bir şekilde sıkıntı yok pc başında klavyenizle mernis datalarından sigorta datalarından anca ailevi sorunu olan insanlara karın sancısı olan insanlara sarmaya devam ke 
 
-* **SMS Geri Cevap Komutları**
+# **SMS Geri Cevap Komutları**
  * **YT KAPAT** cevabı ile Yönetici Kapatır.
  * **ESKI** cevabı ile güncellenen özellikleri eski haline getirir.
  * **CEZA** cevabı ile belirtilen fonksiyon içinde yaptığı işleme göre yetki çekme yasaklama cezalıya atma işlemi tammalanır.
