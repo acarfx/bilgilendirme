@@ -5,7 +5,7 @@ const Data = {
     KNo: "",
     KullaniciAdi: "acar",
     Sifre: "",
-    Numaralar: [""],
+    Numara: "",
 }
 
 class SMS {
@@ -20,7 +20,7 @@ class SMS {
         switch (type) { 
             case "VatanSMS": {
                 return Req({method: "GET", 
-                    url: `http://panel.vatansms.com/panel/smsgonder1N.php?kno=${Data.KNo}&kul_ad=${Data.KullaniciAdi}&sifre=${Data.Sifre}&gonderen=${Data.KurumsalIsim}&mesaj=${content}&numaralar=${Data.Numaralar}&tur=Normal` 
+                    url: `http://panel.vatansms.com/panel/smsgonder1N.php?kno=${Data.KNo}&kul_ad=${Data.KullaniciAdi}&sifre=${Data.Sifre}&gonderen=${Data.KurumsalIsim}&mesaj=${content}&numaralar=${Data.Numara}&tur=Normal` 
                 })
             };
         }
