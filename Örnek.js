@@ -11,8 +11,8 @@ const Data = {
 class SMS {
 
     /**
-    * @param {content} string 
-    * @param {type} string
+    * @param {content<String>} content 
+    * @param {type<String>} type
     * @returns {Promise<void>}
     */
 
