@@ -21,7 +21,7 @@ Bunu diyen aptal sürüsüne de şöyle cevap vereyim URL her halukarda gidiyor 
 
 # Kullandığım API 
 - [VatanSMS](https://www.vatansms.com/)
-- [VatanSMS API](https://www.vatansms.com/push-get-sms-gonderme-api/)
+- [VatanSMS API Dökümanı](https://www.vatansms.com/apidokuman/api-entegrasyon.pdf)
 
 > Kurulumları yapamazsanız **acar#0001** discorddan ekleyin veya DM bırakın size boş vaktim de yardımcı olurum.  
 
